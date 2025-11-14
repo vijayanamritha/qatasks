@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="UI Data Verification Suite">
+  <test name="Validation Test">
+    <classes>
+      <class name="validation.VerifyTest"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
